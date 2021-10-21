@@ -1,5 +1,5 @@
 import React from 'react'
-import { Lineback, LoginBackground, LoginBackgroundImg, LoginBody, LoginForm } from '../../styles/login'
+import { LoginBackground, LoginBackgroundImg, LoginBody, LoginForm } from '../../styles/login'
 
 const Login: React.FC = () => {
     return (

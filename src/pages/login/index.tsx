@@ -5,9 +5,6 @@ const Login: React.FC = () => {
     return (
         <LoginBody>
             <LoginBackground>
-                <Lineback src="img/line.svg" />
-                <Lineback src="img/line.svg" />
-                <Lineback src="img/line.svg" />
                 <LoginBackgroundImg src="img/background-login.png" />
             </LoginBackground>
 

@@ -13,18 +13,14 @@ export const LoginBackground = styled.div`
   height: 100%;
   background-color: #E0DCDC;
   display: flex;
-  flex-direction: column;
-`
-export const Lineback = styled.img`
-    margin-bottom: -24rem;
+  align-items: center;
+  justify-content: center;
 `
 
 export const LoginBackgroundImg = styled.img`
-    margin-top: 7rem;
     height: 50%;
     width: 90%;
 `
-
 
 export const LoginForm = styled.form`
   width: 50%;

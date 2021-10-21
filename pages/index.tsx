@@ -1,15 +1,16 @@
+import React from 'react'
 import Head from 'next/head'
 
 
-export default function Home() {
+const Home: React.FC = () => {
   return (
-    <div >
+    <div>
       <Head>
         <title>Agendamento</title>
       </Head>
 
-      <main >
-        <h1 >
+      <main>
+        <h1>
          Helcome to Agendamento
         </h1>
 
